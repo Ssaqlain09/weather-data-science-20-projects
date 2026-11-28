@@ -18,15 +18,15 @@
 
 | # | Project | Open in Colab | Preview on GitHub |
 |---:|---|---|---|
-| 01 | Data Leakage Detection Lab | [Open in Colab](https://colab.research.google.com/drive/1__0GtI5TzTlYxQ4PTCgtfTpz-PMdcOnZ) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%201/Project_01_Data_Leakage_Detection_Lab.ipynb) |
-| 02 | Missing Data Mechanism Analysis | [Open in Colab](https://colab.research.google.com/drive/1GVGDEST01u9VFucz-kFozyO0HQjwej28) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%202/Project_02_Missing_Data_Mechanism_Analysis.ipynb) |
-| 03 | Feature Stability Under Distribution Shift | [Open in Colab](https://colab.research.google.com/drive/1czi_7obCqX5dVtf_6E-o09CjoE0f6SIf) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%203/Project_03_Feature_Stability_Under_Distribution_Shift.ipynb) |
-| 04 | Model Explainability vs Performance Tradeoff | [Open in Colab](https://colab.research.google.com/drive/15LvufX01H-Z0jlZTyEEbDmIzU9V6u9-A) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%204/Project_04_Model_Explainability_vs_Performance_Tradeoff.ipynb) |
-| 05 | Custom Cross-Validation Strategy | [Open in Colab](https://colab.research.google.com/drive/15fxr99BVklcdhej4_umyIFvjb8IIjhNx) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%205/Project_05_Custom_Cross_Validation_Strategy.ipynb) |
-| 06 | Bias & Fairness Evaluation Lab | [Open in Colab](https://colab.research.google.com/drive/1ihicfcu6Jyshv7u2M4a0-ilXVMvsZA2H) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%206/Project_06_Bias_Fairness_Evaluation_Lab.ipynb) |
-| 07 | High-Dimensional Feature Selection | [Open in Colab](https://colab.research.google.com/drive/1x7EJw2HW5N6wxO1dmtkOI5Xg8117Psi9) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%207/Project_07_High_Dimensional_Feature_Selection.ipynb) |
-| 08 | Anomaly Detection with No Labels | [Open in Colab](https://colab.research.google.com/drive/14uYtWbcP4xfZAsAqXKmYuKJ57vmogaqX) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%208/Project_08_Anomaly_Detection_with_No_Labels.ipynb) |
-| 09 | Time-Series Forecasting Under Concept Drift | [Open in Colab](https://colab.research.google.com/drive/1KK2saIk_zOlSLUnpjMQ-4wKiU1n9zsqq) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%209/Project_09_Time_Series_Forecasting_Under_Concept_Drift.ipynb) |
+| 01 | Data Leakage Detection Lab | [Open in Colab](https://colab.research.google.com/drive/1__0GtI5TzTlYxQ4PTCgtfTpz-PMdcOnZ) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2001/Project_01_Data_Leakage_Detection_Lab.ipynb) |
+| 02 | Missing Data Mechanism Analysis | [Open in Colab](https://colab.research.google.com/drive/1GVGDEST01u9VFucz-kFozyO0HQjwej28) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2002/Project_02_Missing_Data_Mechanism_Analysis.ipynb) |
+| 03 | Feature Stability Under Distribution Shift | [Open in Colab](https://colab.research.google.com/drive/1czi_7obCqX5dVtf_6E-o09CjoE0f6SIf) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2003/Project_03_Feature_Stability_Under_Distribution_Shift.ipynb) |
+| 04 | Model Explainability vs Performance Tradeoff | [Open in Colab](https://colab.research.google.com/drive/15LvufX01H-Z0jlZTyEEbDmIzU9V6u9-A) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2004/Project_04_Model_Explainability_vs_Performance_Tradeoff.ipynb) |
+| 05 | Custom Cross-Validation Strategy | [Open in Colab](https://colab.research.google.com/drive/15fxr99BVklcdhej4_umyIFvjb8IIjhNx) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2005/Project_05_Custom_Cross_Validation_Strategy.ipynb) |
+| 06 | Bias & Fairness Evaluation Lab | [Open in Colab](https://colab.research.google.com/drive/1ihicfcu6Jyshv7u2M4a0-ilXVMvsZA2H) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2006/Project_06_Bias_Fairness_Evaluation_Lab.ipynb) |
+| 07 | High-Dimensional Feature Selection | [Open in Colab](https://colab.research.google.com/drive/1x7EJw2HW5N6wxO1dmtkOI5Xg8117Psi9) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2007/Project_07_High_Dimensional_Feature_Selection.ipynb) |
+| 08 | Anomaly Detection with No Labels | [Open in Colab](https://colab.research.google.com/drive/14uYtWbcP4xfZAsAqXKmYuKJ57vmogaqX) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2008/Project_08_Anomaly_Detection_with_No_Labels.ipynb) |
+| 09 | Time-Series Forecasting Under Concept Drift | [Open in Colab](https://colab.research.google.com/drive/1KK2saIk_zOlSLUnpjMQ-4wKiU1n9zsqq) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2009/Project_09_Time_Series_Forecasting_Under_Concept_Drift.ipynb) |
 | 10 | Class Imbalance Strategy Comparison | [Open in Colab](https://colab.research.google.com/drive/1XVvZJSH8i1yrPsbBKM9uvbv24ts-tcrt) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2010/Project_10_Class_Imbalance_Strategy_Comparison.ipynb) |
 | 11 | Feature Engineering from Raw Text Logs | [Open in Colab](https://colab.research.google.com/drive/1x5uy7zLejaX7E6HjJQsype6V3HhaJjDy) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2011/Project_11_Feature_Engineering_from_Raw_Text_Logs.ipynb) |
 | 12 | Model Calibration Lab | [Open in Colab](https://colab.research.google.com/drive/1Ym_eQHo7KMrOyz9rJr74oXXXtTTIVTCK) | [Preview](https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2012/Project_12_Model_Calibration_Lab.ipynb) |
@@ -59,9 +59,9 @@
 
 **Open in Colab:** https://colab.research.google.com/drive/1__0GtI5TzTlYxQ4PTCgtfTpz-PMdcOnZ
 
-**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%201/Project_01_Data_Leakage_Detection_Lab.ipynb
+**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2001/Project_01_Data_Leakage_Detection_Lab.ipynb
 
-**Notebook file:** `Projects/Project 1/Project_01_Data_Leakage_Detection_Lab.ipynb` — shared in Drive as Anyone with the link, Viewer.
+**Notebook file:** `Projects/Project 01/Project_01_Data_Leakage_Detection_Lab.ipynb` — shared in Drive as Anyone with the link, Viewer.
 
 ## Project 02: Missing Data Mechanism Analysis
 
@@ -75,9 +75,9 @@
 
 **Open in Colab:** https://colab.research.google.com/drive/1GVGDEST01u9VFucz-kFozyO0HQjwej28
 
-**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%202/Project_02_Missing_Data_Mechanism_Analysis.ipynb
+**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2002/Project_02_Missing_Data_Mechanism_Analysis.ipynb
 
-**Notebook file:** `Projects/Project 2/Project_02_Missing_Data_Mechanism_Analysis.ipynb` — shared in Drive as Anyone with the link, Viewer.
+**Notebook file:** `Projects/Project 02/Project_02_Missing_Data_Mechanism_Analysis.ipynb` — shared in Drive as Anyone with the link, Viewer.
 
 ## Project 03: Feature Stability Under Distribution Shift
 
@@ -91,9 +91,9 @@
 
 **Open in Colab:** https://colab.research.google.com/drive/1czi_7obCqX5dVtf_6E-o09CjoE0f6SIf
 
-**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%203/Project_03_Feature_Stability_Under_Distribution_Shift.ipynb
+**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2003/Project_03_Feature_Stability_Under_Distribution_Shift.ipynb
 
-**Notebook file:** `Projects/Project 3/Project_03_Feature_Stability_Under_Distribution_Shift.ipynb` — shared in Drive as Anyone with the link, Viewer.
+**Notebook file:** `Projects/Project 03/Project_03_Feature_Stability_Under_Distribution_Shift.ipynb` — shared in Drive as Anyone with the link, Viewer.
 
 ## Project 04: Model Explainability vs Performance Tradeoff
 
@@ -107,9 +107,9 @@
 
 **Open in Colab:** https://colab.research.google.com/drive/15LvufX01H-Z0jlZTyEEbDmIzU9V6u9-A
 
-**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%204/Project_04_Model_Explainability_vs_Performance_Tradeoff.ipynb
+**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2004/Project_04_Model_Explainability_vs_Performance_Tradeoff.ipynb
 
-**Notebook file:** `Projects/Project 4/Project_04_Model_Explainability_vs_Performance_Tradeoff.ipynb` — shared in Drive as Anyone with the link, Viewer.
+**Notebook file:** `Projects/Project 04/Project_04_Model_Explainability_vs_Performance_Tradeoff.ipynb` — shared in Drive as Anyone with the link, Viewer.
 
 ## Project 05: Custom Cross-Validation Strategy
 
@@ -123,9 +123,9 @@
 
 **Open in Colab:** https://colab.research.google.com/drive/15fxr99BVklcdhej4_umyIFvjb8IIjhNx
 
-**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%205/Project_05_Custom_Cross_Validation_Strategy.ipynb
+**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2005/Project_05_Custom_Cross_Validation_Strategy.ipynb
 
-**Notebook file:** `Projects/Project 5/Project_05_Custom_Cross_Validation_Strategy.ipynb` — shared in Drive as Anyone with the link, Viewer.
+**Notebook file:** `Projects/Project 05/Project_05_Custom_Cross_Validation_Strategy.ipynb` — shared in Drive as Anyone with the link, Viewer.
 
 ## Project 06: Bias & Fairness Evaluation Lab
 
@@ -139,9 +139,9 @@
 
 **Open in Colab:** https://colab.research.google.com/drive/1ihicfcu6Jyshv7u2M4a0-ilXVMvsZA2H
 
-**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%206/Project_06_Bias_Fairness_Evaluation_Lab.ipynb
+**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2006/Project_06_Bias_Fairness_Evaluation_Lab.ipynb
 
-**Notebook file:** `Projects/Project 6/Project_06_Bias_Fairness_Evaluation_Lab.ipynb` — shared in Drive as Anyone with the link, Viewer.
+**Notebook file:** `Projects/Project 06/Project_06_Bias_Fairness_Evaluation_Lab.ipynb` — shared in Drive as Anyone with the link, Viewer.
 
 ## Project 07: High-Dimensional Feature Selection
 
@@ -155,9 +155,9 @@
 
 **Open in Colab:** https://colab.research.google.com/drive/1x7EJw2HW5N6wxO1dmtkOI5Xg8117Psi9
 
-**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%207/Project_07_High_Dimensional_Feature_Selection.ipynb
+**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2007/Project_07_High_Dimensional_Feature_Selection.ipynb
 
-**Notebook file:** `Projects/Project 7/Project_07_High_Dimensional_Feature_Selection.ipynb` — shared in Drive as Anyone with the link, Viewer.
+**Notebook file:** `Projects/Project 07/Project_07_High_Dimensional_Feature_Selection.ipynb` — shared in Drive as Anyone with the link, Viewer.
 
 ## Project 08: Anomaly Detection with No Labels
 
@@ -171,9 +171,9 @@
 
 **Open in Colab:** https://colab.research.google.com/drive/14uYtWbcP4xfZAsAqXKmYuKJ57vmogaqX
 
-**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%208/Project_08_Anomaly_Detection_with_No_Labels.ipynb
+**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2008/Project_08_Anomaly_Detection_with_No_Labels.ipynb
 
-**Notebook file:** `Projects/Project 8/Project_08_Anomaly_Detection_with_No_Labels.ipynb` — shared in Drive as Anyone with the link, Viewer.
+**Notebook file:** `Projects/Project 08/Project_08_Anomaly_Detection_with_No_Labels.ipynb` — shared in Drive as Anyone with the link, Viewer.
 
 ## Project 09: Time-Series Forecasting Under Concept Drift
 
@@ -187,9 +187,9 @@
 
 **Open in Colab:** https://colab.research.google.com/drive/1KK2saIk_zOlSLUnpjMQ-4wKiU1n9zsqq
 
-**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%209/Project_09_Time_Series_Forecasting_Under_Concept_Drift.ipynb
+**Preview on GitHub:** https://github.com/Ssaqlain09/weather-data-science-20-projects/blob/main/Projects/Project%2009/Project_09_Time_Series_Forecasting_Under_Concept_Drift.ipynb
 
-**Notebook file:** `Projects/Project 9/Project_09_Time_Series_Forecasting_Under_Concept_Drift.ipynb` — shared in Drive as Anyone with the link, Viewer.
+**Notebook file:** `Projects/Project 09/Project_09_Time_Series_Forecasting_Under_Concept_Drift.ipynb` — shared in Drive as Anyone with the link, Viewer.
 
 ## Project 10: Class Imbalance Strategy Comparison
 
